@@ -5,8 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Tsinghua University as a Master Student.
-- 🌱 I’m interested in Computer Vison and Multimodal.
+- 👊🏻 I am working at The University of Hong Kong as a PhD student.
+- 🔭 I obtained my MSc at Tsinghua University.
+- 🌱 I’m interested in Vision Language Models and Generative AI.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
