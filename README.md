@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I obtained my MSc at Tsinghua University.
 - 🌱 I’m interested in Vision Language Models and Generative AI.
 - 📫 How to reach me: **[mail](mailto:ycxiao888@qq.com)** and **[google scholar](https://scholar.google.com/citations?user=oakZP0cAAAAJ&hl=en)**.
-
-- 
+ 
 ## Total Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/EasonXiao-888/count.svg)
